@@ -14,4 +14,16 @@ The idea proposes to provide a digital solution, to bring the farmers, MNCs and 
 #### Company's View - showing downloadable contracts feature
 <kbd><img width="1470" alt="Company View - Downloadable Contracts" src="https://github.com/user-attachments/assets/9c3bf57c-3816-46da-b03e-8382d733e541" /></kbd>
 
+## Tech Stack
+This is a Progressive Web App (PWA) based on MERN stack & uses Vite as a build framework - 
+#### Database:
+- MongoDB
+
+#### Backend:
+- Node.js
+- Express
+- Mongoose
+- REST API
+- JavaScript
+
 
