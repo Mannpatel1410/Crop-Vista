@@ -30,4 +30,16 @@ This is a Progressive Web App (PWA) based on MERN stack & uses Vite as a build f
 - REST API
 - JavaScript
 
+#### Frontend:
+- React
+- Redux
+- MUI
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Vite
+
+
+
 
