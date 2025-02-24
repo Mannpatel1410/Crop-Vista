@@ -52,6 +52,26 @@ This is a Progressive Web App (PWA) based on MERN stack & uses Vite as a build f
 2. Run **npm install** to install the necessary node modules.
 3. Start the application with **npm run dev**, which will host it at http://localhost:4000/ as specified in the Vite configuration file.
 
+## Node packages that will be installed
+#### Server:
+- **cors:** to enable Cross-Origin Resource Sharing for secure API access.
+- **debug:** to provide a debugging utility for Node.js applications.
+- **dotenv:** to load environment variables from a .env file.
+- **express:** a web application framework for Node.js.
+- **mongoose:** to provide a MongoDB object modeling tool for Node.js.
+
+#### Client:
+- **@emotion/react & @emotion/styled:** utilities for styling components with Emotion.
+- **@mui:** Material Design components and icons for React.
+- **@reduxjs/toolkit:** to simplify Redux state management.
+- **date-fns:** used for date utility functions.
+- **i18:** used for internationalization framework and backend loading for translations.
+- **jspdf:** to generate PDF files in the browser.
+- **react & react-dom:** core library and DOM methods for React.
+- **react-hot-toast:** toast notifications in React.
+- **react-i18next:** to integrate i18next with React.
+- **react-redux:** to connect Redux with React components.
+- **react-router-dom:** to manage routing in React applications.
 
 
 
