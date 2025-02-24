@@ -11,3 +11,7 @@ The idea proposes to provide a digital solution, to bring the farmers, MNCs and 
 <kbd><img width="1465" alt="Farmer's View - Translated" src="https://github.com/user-attachments/assets/e461432d-43c5-4249-ad66-1c680b35a4c5" /></kbd>
 #### Distributor's View - showing 'Create Procurement'
 <kbd><img width="1470" alt="Distributor's View - Create Procurement" src="https://github.com/user-attachments/assets/bcd982ff-e6d1-430e-884b-b9b6bd5d6abc" /></kbd>
+#### Company's View - showing downloadable contracts feature
+<kbd><img width="1470" alt="Company View - Downloadable Contracts" src="https://github.com/user-attachments/assets/9c3bf57c-3816-46da-b03e-8382d733e541" /></kbd>
+
+
