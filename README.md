@@ -5,3 +5,5 @@ The idea proposes to provide a digital solution, to bring the farmers, MNCs and 
 
 #### Landing Page
 <kbd><img width="1470" alt="Landing Screen" src="https://github.com/user-attachments/assets/4fe7c405-bd7c-4d09-915b-380055b29ed8" /></kbd>
+#### Visualization using charts and graphs
+<kbd><img width="1469" alt="Data Visualization" src="https://github.com/user-attachments/assets/84a0ac2e-c1a9-4840-a6fd-97a27fae67e4" /></kbd>
